@@ -35,3 +35,6 @@ Refrence coding pattern
 - fsgm https://arxiv.org/abs/1412.6572
 - black box https://arxiv.org/abs/1602.02697
 - jsma https://arxiv.org/abs/1511.07528
+
+#### Dense Net
+- https://github.com/liuzhuang13/DenseNet
